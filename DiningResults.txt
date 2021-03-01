@@ -1,0 +1,9 @@
+philosopher: 2
+total time: 120 seconds
+eat count: 18
+eat time: 32 seconds
+hungry count: 18
+hungry time: 43 seconds
+think count: 18
+think time: 37 seconds
+
